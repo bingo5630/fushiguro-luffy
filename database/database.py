@@ -8,7 +8,7 @@ class SidDataBase:
         self.dbclient = motor.motor_asyncio.AsyncIOMotorClient(DB_URI)
         self.database = self.dbclient[DB_NAME]
         
-        self.user_data = self.database['users']
+        self.user_data = self.database['Users']
         self.channel_data = self.database['channels']
         self.admins_data = self.database['admins']
         self.banned_user_data = self.database['banned_user']
