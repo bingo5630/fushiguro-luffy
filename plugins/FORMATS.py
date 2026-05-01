@@ -2,8 +2,8 @@
 
 #text formatting....
 
-on_pic = "https://envs.sh/an1.jpg"
-off_pic = "https://envs.sh/an4.jpg"
+on_pic = "https://graph.org/file/b243ed1a3bd0ddb6a9421-8a1016d67afa2e0b5a.jpg"
+off_pic = "https://graph.org/file/995ad650ad6caed7cefca-170d056f933cb3413e.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒αᴍᴀ</a>\n» ᴋ-ᴅʀᴀᴍᴀ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/K_Drama_In_Hindi_English>𝐊-𝐃ʀᴀᴍᴀ 𝐇ᴜsʜ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒ᴀᴍᴀ ֟፝</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Save_ish>𝐒ᴀᴠᴇ 𝐒αᴍᴀ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Amex_Fushiguro>𝐒ᴀᴠᴇ 𝐒ᴀᴍᴀ ֟፝</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
