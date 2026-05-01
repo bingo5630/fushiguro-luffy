@@ -16,10 +16,10 @@ APP_ID = int(os.environ.get("APP_ID", "22706444"))
 API_HASH = os.environ.get("API_HASH", "6e835a092d3431effe2c909873db1dab")
 
 #Your db channel Id --⚠️ REQUIRED--
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002605259837"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002449243272"))
 
 #OWNER ID --⚠️ REQUIRED--
-OWNER_ID = int(os.environ.get("OWNER_ID", "5961139833"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1683225887"))
 
 #SUPPORT_GROUP: This is used for normal users for getting help if they don't understand how to use the bot --⚠ OPTIONAL--
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "")
